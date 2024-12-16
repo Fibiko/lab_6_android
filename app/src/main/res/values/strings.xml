@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab_6</string>
+    <string name="title"> Решение квадратного уравнения </string>
+    <string name="example"> a*x^2+b*x+c=0 </string>
+    <string name="a"> a= </string>
+    <string name="b"> b= </string>
+    <string name="c"> c= </string>
+    <string name="noRoots"> Корней нет </string>
+    <string name="oneRoot"> Найден один корень </string>
+    <string name="twoRoots"> Найдено два корня </string>
+</resources>
